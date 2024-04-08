@@ -6,7 +6,7 @@
 
 ## About Me
 My hobbies are:
-- Exercise (Workout, Basketball, Soccer, and etc.)
+- Exercising (Workout, Basketball, Soccer, and etc.)
 - Watching Movies
 - Hiking
 - Sightseeing
@@ -14,7 +14,7 @@ My hobbies are:
 One of my favorite quote is:
 > "Stay Hungry, Stay Foolish." by Steve Jobs
 
-My favorite site used to be [Youtube](www.youtube.com), but now, my favorite site is [ChatGPT](https://chat.openai.com/).
+My favorite site used to be [Youtube](https://www.youtube.com), but now, my favorite site is [ChatGPT](https://chat.openai.com/).
 
 Some of my bucket lists:
 - [x]  Surfing
