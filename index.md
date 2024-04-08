@@ -17,13 +17,13 @@ One of my favorite quote is:
 My favorite site used to be [Youtube](www.youtube.com), but now, my favorite site is [ChatGPT](https://chat.openai.com/).
 
 Some of my bucket lists:
-- [x] Surfing
-- [ ] Hike to Machu Picchu in Peru
-- [ ] Scuba Diving
-- [ ] Visit Tokyo, Japan
-- [ ] Go skydiving
-- [ ] Become a homeowner
-- [ ] Take a cruise to the stunning glaciers of Alaska
+- [x]  Surfing
+- [ ]  Hike to Machu Picchu in Peru
+- [ ]  Scuba Diving
+- [ ]  Visit Tokyo, Japan
+- [ ]  Go skydiving
+- [ ]  Become a homeowner
+- [ ]  Take a cruise to the stunning glaciers of Alaska
 
 
 ## Past Projects
